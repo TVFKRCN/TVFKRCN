@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Tevfik Ercan 👋
+I'm an industrial engineer trying to learn something about software development</br>
 
 <!--
 **TVFKRCN/TVFKRCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/tvfkrcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvfkrcn" height="30" width="40" /></a>
+<a href="https://instagram.com/tvfkrcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tvfkrcn" height="30" width="40" /></a>
+</p>
