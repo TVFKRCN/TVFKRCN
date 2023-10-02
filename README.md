@@ -1,5 +1,5 @@
 ### Hi there, I'm Tevfik Ercan 👋
-I'm an industrial engineer trying to learn something about software development</br>
+I'm an industrial engineer trying to learn something about web development</br>
 
 <!--
 **TVFKRCN/TVFKRCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
